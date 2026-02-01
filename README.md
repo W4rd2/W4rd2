@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Wardan Fakhouri
+========================================================================================================================================
 
-<!--
-**W4rd2/W4rd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m not interested in building flashy stuff that breaks in real life. I like practical systems that reduce manual work, catch issues early, and leave a clean trail of what changed and why. I’m detail-driven, and I care a lot about data being correct, traceable, and easy to review.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Doha
+* ✉️  You can contact me at [wardfakhouri2004@gmail.com](mailto:wardfakhouri2004@gmail.com)
+* 🧠  I'm currently learning LLM app architecture (RAG, evals)
+* 💬  Ask me about I like building systems that reduce manual work,and produce outputs teams can trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/wardan-fakhouri-220a63286/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
