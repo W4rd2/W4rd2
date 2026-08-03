@@ -6,7 +6,7 @@ I’m not interested in building flashy stuff that breaks in real life. I like p
 * 🌍  I'm based in Doha
 * ✉️  You can contact me at [wardfakhouri2004@gmail.com](mailto:wardan.fakhouri@gmail.com)
 * 💬  Ask me about I like building systems that reduce manual work,and produce outputs teams can trust.
-
+* You can find my portfolio at [w4rd.tech](https://w4rd.tech/)
 
 ### Socials
 
